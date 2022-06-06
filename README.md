@@ -6,6 +6,8 @@ Maitriser git merge, git rebase et la gestion des conflits
 
 Les labs sont sous forme d'issues, merci de ne pas cocher les cases, ni non plus fermer les issues
 
+[GIT](https://innersource.soprasteria.com/elie.nehme/git-rebase-lb/-/issues)
+
 ## Merge
 
 - Permet de fusionner les commits d'une branche sur une autre branche. Sur un projet où la branche `master` correspond à la prochaine version, on fait toujours un merge d'une branche de `feature` sur la branche `master`
